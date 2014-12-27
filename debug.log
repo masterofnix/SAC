@@ -1,0 +1,42 @@
+2014-12-27 23:03:06 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2014-12-27 23:03:06 Securealumnicoin version v0.8.6.2-g55c5572-beta (2014-12-27 22:40:35 +0100)
+2014-12-27 23:03:06 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-12-27 23:03:06 Default data directory /root/.securealumnicoin
+2014-12-27 23:03:06 Using data directory /root/.securealumnicoin/testnet3
+2014-12-27 23:03:06 Using at most 125 connections (1024 file descriptors available)
+2014-12-27 23:03:06 Using 3 threads for script verification
+2014-12-27 23:03:06 init message: Verifying wallet...
+2014-12-27 23:03:06 dbenv.open LogDir=/root/.securealumnicoin/testnet3/database ErrorFile=/root/.securealumnicoin/testnet3/db.log
+2014-12-27 23:03:06 Bound to [::]:40329
+2014-12-27 23:03:06 Bound to 0.0.0.0:40329
+2014-12-27 23:03:06 init message: Loading block index...
+2014-12-27 23:03:06 Opening LevelDB in /root/.securealumnicoin/testnet3/blocks/index
+2014-12-27 23:03:06 Opened LevelDB successfully
+2014-12-27 23:03:06 Opening LevelDB in /root/.securealumnicoin/testnet3/chainstate
+2014-12-27 23:03:06 Opened LevelDB successfully
+2014-12-27 23:03:06 LoadBlockIndexDB(): last block file = 0
+2014-12-27 23:03:06 LoadBlockIndexDB(): synchronized checkpoint not read
+2014-12-27 23:03:06 LoadBlockIndexDB(): transaction index disabled
+2014-12-27 23:03:06 Initializing databases...
+2014-12-27 23:03:06 1af3298765ee7cbf6b8d1d9b0f1e67d9cca00c512bf8cca2304e28d6d320f4b3
+2014-12-27 23:03:06 df83d8ce31005c88ee7e27aaf802a96dd6042800300c35d3045fe013a105ac39
+2014-12-27 23:03:06 a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28
