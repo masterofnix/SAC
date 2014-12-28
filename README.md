@@ -12,11 +12,11 @@ What is Securealumnicoin?
 ----------------
 
 Securealumnicoin is an improved version of Bitcoin using Scrypt as a proof-of-work algorithm.
- - 30 second block targets
+ - 15 second block targets
  - 20160 blocks to retarget difficulty
- - starts at 64 coins per block
+ - starts at 120 coins per block
  - subsidy is reduced 1% every week to a minimum reward of 1 SAC per block
- - ~265 million total coins
+ - ~500 million total coins
 
 
 For more information, as well as an immediately usable, binary version of
