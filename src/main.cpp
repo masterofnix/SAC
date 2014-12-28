@@ -1083,7 +1083,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees) {
 
 	if(nHeight < nDiffChangeTarget) {
 		//this is pre-patch, reward is 32.
-		nSubsidy = 32 * COIN;
+		nSubsidy = 120 * COIN;
 	} else {
 		//patch takes effect after 600,000 blocks solved
 		nSubsidy = GetWDCSubsidy(nHeight);
@@ -1101,7 +1101,7 @@ static const int64 nTargetTimespan = 0.35 *24 * 60 * 60;	// Securealumnicoin: 0.
 static const int64 nTargetSpacing = 15;						// Securealumnicoin: 15 sec
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 static const int64 nTargetTimespanRe = 60 * 60; // 60 Minutes
-static const int64 nTargetSpacingRe = 1 * 30; // Securealumnicoin: 30 seconds
+static const int64 nTargetSpacingRe = 1 * 15; // Securealumnicoin: 30 seconds
 static const int64 nIntervalRe = nTargetTimespanRe / nTargetSpacingRe;
 
 unsigned int ComputeMinWork(unsigned int nBase, int64 nTime)
