@@ -2832,7 +2832,7 @@ bool InitBlockIndex() {
 		
 		
         // Genesis block
-        const char* pszTimestamp = "Der Tagesspiegel 09/Nov/2014 Berlin feiert 25 Jahre Mauerfall";
+        const char* pszTimestamp = "Spiegel Online 28/Dez/2014 Kleine Helfer im Studium: Hut ab vor diesen Uni-Apps";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2844,13 +2844,13 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1415487890;
+        block.nTime    = 1419771339;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 611779;
+        block.nNonce   = 0;
 
         if (fTestNet)
         {
-            block.nTime    = 1415487890;
+            block.nTime    = 1419771339;
             block.nNonce   = 0;
         }
 
