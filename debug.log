@@ -1,4 +1,4 @@
-2014-12-28 00:43:33 
+2014-12-28 13:26:22 
 
 
 
@@ -18,77 +18,25 @@
 
 
 
-2014-12-28 00:43:33 Securealumnicoin version v0.8.6.2-g55c5572-beta (2014-12-27 22:40:35 +0100)
-2014-12-28 00:43:33 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
-2014-12-28 00:43:33 Default data directory /root/.securealumnicoin
-2014-12-28 00:43:33 Using data directory /root/.securealumnicoin
-2014-12-28 00:43:33 Using at most 125 connections (1024 file descriptors available)
-2014-12-28 00:43:33 Using 4 threads for script verification
-2014-12-28 00:43:33 init message: Verifying wallet...
-2014-12-28 00:43:33 dbenv.open LogDir=/root/.securealumnicoin/database ErrorFile=/root/.securealumnicoin/db.log
-2014-12-28 00:43:33 Bound to [::]:40331
-2014-12-28 00:43:33 Bound to 0.0.0.0:40331
-2014-12-28 00:43:33 init message: Loading block index...
-2014-12-28 00:43:33 Opening LevelDB in /root/.securealumnicoin/blocks/index
-2014-12-28 00:43:33 Opened LevelDB successfully
-2014-12-28 00:43:33 Opening LevelDB in /root/.securealumnicoin/chainstate
-2014-12-28 00:43:33 Opened LevelDB successfully
-2014-12-28 00:43:33 LoadBlockIndexDB(): last block file = 0
-2014-12-28 00:43:33 LoadBlockIndexDB(): synchronized checkpoint not read
-2014-12-28 00:43:33 LoadBlockIndexDB(): transaction index disabled
-2014-12-28 00:43:33 Initializing databases...
-2014-12-28 00:43:33 1af3298765ee7cbf6b8d1d9b0f1e67d9cca00c512bf8cca2304e28d6d320f4b3
-2014-12-28 00:43:33 7231b064d3e620c55960abce2963ea19e1c3ffb6f5ff70e975114835a7024107
-2014-12-28 00:43:33 a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28
-2014-12-28 00:43:33 CBlock(hash=1af3298765ee7cbf6b8d1d9b0f1e67d9cca00c512bf8cca2304e28d6d320f4b3, input=01000000000000000000000000000000000000000000000000000000000000000000000028cd2621fe206f389c3178647214fe18ae6b5b5c4aca98b79ba1c4ec8d3273a792a15e54f0ff0f1e00000000, PoW=486c4e36bccb90d9574680dcdbdfc6c582f5d53f74152a57b612d12f6cde86b8, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28, nTime=1415487890, nBits=1e0ffff0, nNonce=0, vtx=1)
-2014-12-28 00:43:33   CTransaction(hash=a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28, ver=1, vin.size=1, vout.size=1, nLockTime=0)
-    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01043d4465722054616765737370696567656c2030392f4e6f762f32303134204265726c696e20666569657274203235204a61687265204d6175657266616c6c)
-    CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
-  vMerkleTree: a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28 
-2014-12-28 00:43:53 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2014-12-28 00:43:53 Securealumnicoin version v0.8.6.2-g55c5572-beta (2014-12-27 22:40:35 +0100)
-2014-12-28 00:43:53 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
-2014-12-28 00:43:53 Default data directory /root/.securealumnicoin
-2014-12-28 00:43:53 Using data directory /root/.securealumnicoin
-2014-12-28 00:43:53 Using at most 125 connections (1024 file descriptors available)
-2014-12-28 00:43:53 Using 4 threads for script verification
-2014-12-28 00:43:53 init message: Verifying wallet...
-2014-12-28 00:43:53 dbenv.open LogDir=/root/.securealumnicoin/database ErrorFile=/root/.securealumnicoin/db.log
-2014-12-28 00:43:53 Bound to [::]:40331
-2014-12-28 00:43:53 Bound to 0.0.0.0:40331
-2014-12-28 00:43:53 init message: Loading block index...
-2014-12-28 00:43:53 Opening LevelDB in /root/.securealumnicoin/blocks/index
-2014-12-28 00:43:53 Opened LevelDB successfully
-2014-12-28 00:43:53 Opening LevelDB in /root/.securealumnicoin/chainstate
-2014-12-28 00:43:53 Opened LevelDB successfully
-2014-12-28 00:43:53 LoadBlockIndexDB(): last block file = 0
-2014-12-28 00:43:53 LoadBlockIndexDB(): synchronized checkpoint not read
-2014-12-28 00:43:53 LoadBlockIndexDB(): transaction index disabled
-2014-12-28 00:43:53 Initializing databases...
-2014-12-28 00:43:53 1af3298765ee7cbf6b8d1d9b0f1e67d9cca00c512bf8cca2304e28d6d320f4b3
-2014-12-28 00:43:53 7231b064d3e620c55960abce2963ea19e1c3ffb6f5ff70e975114835a7024107
-2014-12-28 00:43:53 a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28
-2014-12-28 00:43:53 CBlock(hash=1af3298765ee7cbf6b8d1d9b0f1e67d9cca00c512bf8cca2304e28d6d320f4b3, input=01000000000000000000000000000000000000000000000000000000000000000000000028cd2621fe206f389c3178647214fe18ae6b5b5c4aca98b79ba1c4ec8d3273a792a15e54f0ff0f1e00000000, PoW=486c4e36bccb90d9574680dcdbdfc6c582f5d53f74152a57b612d12f6cde86b8, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28, nTime=1415487890, nBits=1e0ffff0, nNonce=0, vtx=1)
-2014-12-28 00:43:53   CTransaction(hash=a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28, ver=1, vin.size=1, vout.size=1, nLockTime=0)
-    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d01043d4465722054616765737370696567656c2030392f4e6f762f32303134204265726c696e20666569657274203235204a61687265204d6175657266616c6c)
-    CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
-  vMerkleTree: a773328decc4a19bb798ca4a5c5b6bae18fe14726478319c386f20fe2126cd28 
+2014-12-28 13:26:22 Securealumnicoin version v0.8.6.2-g55c5572-beta (2014-12-28 14:12:25 +0100)
+2014-12-28 13:26:22 Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+2014-12-28 13:26:22 Default data directory /root/.securealumnicoin
+2014-12-28 13:26:22 Using data directory /root/.securealumnicoin/testnet3
+2014-12-28 13:26:22 Using at most 125 connections (1024 file descriptors available)
+2014-12-28 13:26:22 Using 4 threads for script verification
+2014-12-28 13:26:22 init message: Verifying wallet...
+2014-12-28 13:26:22 dbenv.open LogDir=/root/.securealumnicoin/testnet3/database ErrorFile=/root/.securealumnicoin/testnet3/db.log
+2014-12-28 13:26:22 Bound to [::]:40329
+2014-12-28 13:26:22 Bound to 0.0.0.0:40329
+2014-12-28 13:26:22 init message: Loading block index...
+2014-12-28 13:26:22 Opening LevelDB in /root/.securealumnicoin/testnet3/blocks/index
+2014-12-28 13:26:22 Opened LevelDB successfully
+2014-12-28 13:26:22 Opening LevelDB in /root/.securealumnicoin/testnet3/chainstate
+2014-12-28 13:26:22 Opened LevelDB successfully
+2014-12-28 13:26:22 LoadBlockIndexDB(): last block file = 0
+2014-12-28 13:26:22 LoadBlockIndexDB(): synchronized checkpoint not read
+2014-12-28 13:26:22 LoadBlockIndexDB(): transaction index disabled
+2014-12-28 13:26:22 Initializing databases...
+2014-12-28 13:26:22 d8b336a7a9c5cc9219df802c3ccdba46d53dff1ccb1f3f0c9359b0e3397b62ec
+2014-12-28 13:26:22 1af3298765ee7cbf6b8d1d9b0f1e67d9cca00c512bf8cca2304e28d6d320f4b3
+2014-12-28 13:26:22 3a4ca747d3d3224664a8fc6ca6e6b06686cfcc71e5bc8ca9971118f25ecd6d09
